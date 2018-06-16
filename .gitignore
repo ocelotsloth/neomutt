@@ -40,3 +40,6 @@ hcache/hcversion.h
 *~
 tags
 
+# Release testing
+html
+/*.txt
