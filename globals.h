@@ -107,6 +107,7 @@ WHERE char *DateFormat;
 WHERE char *DsnNotify;
 WHERE char *DsnReturn;
 WHERE char *Editor;
+WHERE char *HelpDocDir;
 WHERE char *Hostname;
 WHERE char *IndexFormat;
 
